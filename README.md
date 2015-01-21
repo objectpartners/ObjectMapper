@@ -1,5 +1,6 @@
 ObjectMapper
 ============
+Forked.
 
 ObjectMapper is a framework written in Swift that makes it easy for you to convert your Model objects to and from JSON. 
 ##Features:
